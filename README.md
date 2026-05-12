@@ -32,7 +32,6 @@ Some novel gadgets I made myself or various machines and mechanisms that have be
 ---
 
 ## 📷 模型预览
-（这里放你模型的截图/渲染图，直接拖到仓库里，然后用下面的格式插入）
 ![整体装配效果](./预览图片/整体装配图.png)
 ![关键结构细节](./预览图片/关键结构细节.png)
 ---
