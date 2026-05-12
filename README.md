@@ -1,6 +1,6 @@
 # something
 Some novel gadgets I made myself or various machines and mechanisms that have been tested by me and my team—perhaps they are not perfect, but they are all my hard work. You are welcome to communicate with me!
-##项目名称：[]
+##项目名称：[12自由度串联四足机器人]
 一句话介绍项目：[这是一个用于RC比赛的12自由度机器人，采用SolidWorks 2023设计，包含完整零件与工程图]
 ##📌项目简介
 这是我/团队制作的用于比赛使用的机器狗，亦可供日常使用玩耍，主要用途/设计目标：
